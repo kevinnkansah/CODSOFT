@@ -5,7 +5,7 @@ This repository contains three machine learning tasks that I completed for my in
 ## Source Code
 
 - [Credit Card Fraud Detection](https://github.com/kevinnkansah/CODSOFT/blob/a78bdb8cacbdaf59e9b13e9f9641c947aff9b1c3/Credit%20Card%20Fraud%20Detection/creditcard.ipynb)
-- [Iris Flower Classification]([Iris_Flower_Classification/iris_flower_classification.ipynb](https://github.com/kevinnkansah/CODSOFT/blob/a78bdb8cacbdaf59e9b13e9f9641c947aff9b1c3/Iris%20Flower%20Classification/iris.ipynb))
+- [Iris Flower Classification](https://github.com/kevinnkansah/CODSOFT/blob/0e73a9956311d4ce1cc615a67691211551707acd/Iris%20Flower%20Classification/iris.ipynb)
 - [Titanic Survival Prediction](https://github.com/kevinnkansah/CODSOFT/blob/a78bdb8cacbdaf59e9b13e9f9641c947aff9b1c3/Titanic%20Survival%20Prediction/titanic.ipynb)
 
 ### Disclaimer
