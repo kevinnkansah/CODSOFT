@@ -1,6 +1,6 @@
 # Machine Learning Internship Tasks
 
-This repository contains three machine learning tasks that I completed for my internship. 
+This repository contains three machine learning tasks that I completed for my remote internship at Codsoft. 
 
 ## Source Code
 
