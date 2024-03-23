@@ -9,8 +9,8 @@ The dataset used for this project is the Credit Card Fraud Detection dataset, wh
 ## Approach
 - Data preprocessing using SMOTE
 - Model training using random forest.
-- Model evaluation using metrics such as precision, recall, and F1 score.
-- Deployment of the best performing model to detect fraud in real-time transactions.
+- Model evaluation using ROC-AUC curve
+
 
 ## Results
 The project achieved an accuracy of 99.992920 % in detecting fraudulent transactions.
